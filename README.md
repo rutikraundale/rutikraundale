@@ -26,7 +26,7 @@ A web application that allows citizens to report and track urban issues like tra
 
 **Tech Stack:** HTML, CSS, JavaScript, Local Storage, Chart.js  
 
-**Repository:** [CityFix GitHub Repo](https://github.com/your-github-username/cityfix-complaint-system)
+**Repository:** [CityFix GitHub Repo](https://github.com/rutikraundale/PBL-Cityfix)
 
 ---
 
