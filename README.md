@@ -5,7 +5,7 @@ I'm a passionate **web developer** focused on building practical and user-friend
 ---
 
 ## 🛠 Skills
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, React
 - Git, GitHub, VS Code
 - Data Structures & Algorithms (basic)
 - Local Storage for web applications
