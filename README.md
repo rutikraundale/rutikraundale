@@ -1,11 +1,11 @@
 # Hi, I'm Rutik 👋
 
-I'm a passionate **web developer** focused on building practical and user-friendly web applications using **HTML, CSS, and JavaScript**. I enjoy creating projects that solve real-world problems.
+I'm a passionate **web developer** focused on building practical and user-friendly web applications using **HTML, CSS, JavaScript and React**. I enjoy creating projects that solve real-world problems.
 
 ---
 
 ## 🛠 Skills
-- HTML, CSS, JavaScript, React
+- HTML, CSS, Tailwind , JavaScript, React ,React-redux toolkit
 - Git, GitHub, VS Code
 - Data Structures & Algorithms (basic)
 - Local Storage for web applications
@@ -24,7 +24,7 @@ A web application that allows citizens to report and track urban issues like tra
 - Discussion page with comments and like/dislike functionality
 - Analytics page with dynamic charts
 
-**Tech Stack:** HTML, CSS, JavaScript, Local Storage, Chart.js  
+**Tech Stack:** HTML, CSS, Tailwind CSS , JavaScript, Local Storage, Chart.js  
 
 **Repository:** [CityFix GitHub Repo](https://github.com/rutikraundale/PBL-Cityfix)
 
@@ -32,6 +32,7 @@ A web application that allows citizens to report and track urban issues like tra
 
 ## 🌱 Currently Learning
 - Advanced JavaScript (ES6+)
+- React.js 
 - Data Structures & Algorithms in C++
 - Building interactive web projects
 
