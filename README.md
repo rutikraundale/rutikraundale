@@ -11,7 +11,7 @@
 ### 🌐 Building things for the web, one commit at a time.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutik-raundale-348136289)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutikraundale5@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
@@ -141,7 +141,7 @@ A real-time platform that helps hackers discover partners, build teams, and win 
 
 <div>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://hackmeet.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutikraundale/hackmeet)
 
 </div>
