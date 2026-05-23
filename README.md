@@ -10,7 +10,6 @@
 
 ### 🌐 Building things for the web, one commit at a time.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutik-raundale-348136289)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutikraundale5@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
@@ -41,7 +40,7 @@ I specialize in the **MERN stack**, building responsive frontends and connecting
 *   **Frontend:** React.js, Redux, TailwindCSS
 *   **Backend:** Node.js, Express.js, Socket.io
 *   **Databases:** MongoDB, MySQL / PostgreSQL
-*   **Cloud/Tools:** AWS (EC2, S3), Git, Postman
+*   **Cloud/Tools:** AWS (EC2, S3), Git, Postman,Cloudinary
 
 </td>
 </tr>
@@ -110,9 +109,9 @@ A smart campus lost-and-found platform built for students. Report lost items, po
 - 🔐 **OTP-based claiming system** — students receive a unique OTP on their verified email to claim items through the campus admin
 - 📧 Email verification via **NodeMailer**
 - 🛡️ Admin panel for secure item handover verification
-
+-    Image uploading using **Cloudinary**
 **🔧 Built With:**
-`MongoDB` `Express.js` `React` `Node.js` `NodeMailer`
+`MongoDB` `Express.js` `React` `Node.js` `NodeMailer` `Cloudinary`
 
 <div>
 
@@ -135,9 +134,10 @@ A real-time platform that helps hackers discover partners, build teams, and win 
 - ✅ Team to-dos & task management
 - 🐙 **Live GitHub commits** fetched per project
 - 📩 Invite others / request to join teams
+- Storing profile image using **Cloudinary**
 
 **🔧 Built With:**
-`MongoDB` `Express.js` `React` `Node.js` `Socket.io` `Telegram API`
+`MongoDB` `Express.js` `React` `Node.js` `Socket.io` `Telegram API` `Cloudinary`
 
 <div>
 
