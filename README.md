@@ -125,7 +125,7 @@ A smart campus lost-and-found platform built for students. Report lost items, po
 ### 🤝 HackMeet
 > **Find Your Hackathon Dream Team**
 
-A real-time platform that helps hackers discover partners, build teams, and win together — powered by skill matching, live chat, and GitHub integration.
+A real-time platform that helps developers discover partners, build teams, and win together — powered by skill matching, live chat, and GitHub integration.
 
 **✨ Key Features:**
 - 🎯 **Skill-based team matching** for listed hackathons
